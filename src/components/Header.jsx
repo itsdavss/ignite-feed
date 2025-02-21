@@ -3,7 +3,7 @@ import styles from './Header.module.css'
 export function Header() {
     return (
         <header className={styles.header}>
-            <strong>Ignite feed teste</strong>
+            <strong>Ignite feed</strong>
         </header>
     );
 }
